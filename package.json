@@ -1,0 +1,13 @@
+{
+  "name": "meteor-forum-26806-react-bootstrap-tooltips",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
+    "meteor-node-stubs": "~0.2.3",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
